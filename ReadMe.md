@@ -18,9 +18,10 @@ This project is created for the purpose of the Udacity Data Science Nanodegree c
 
 
 ## File Descriptions
-* data/profile.json - json file containing customer data
-* data/portfolio.json - json file containing data on offers during the test period
-* data/transcript.json - json file containing data on events (transactions, offers received, offers viewed and offers completed) during the test 
+* profile.json - json file containing customer data
+* portfolio.json - json file containing data on offers during the test period
+* transcript_part1.json - json file containing data on the events (transactions, offers received, offers viewed and offers completed) during the test. This file contains the first half of the transcript data.
+* transcript_part2.json - json file containing data on events (transactions, offers received, offers viewed and offers completed) during the test. This file contains the second half of the transcript data.
 
 * analysis/Starbucks_capstone_notebook.ipynb - python file containing analysis of the starbucks offer data
 
