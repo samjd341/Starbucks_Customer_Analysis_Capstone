@@ -30,6 +30,8 @@ The analysis shows that we can create a customer segmentation model, segmenting 
 
 We then create a predictive model with an accuracy of %. 
 
+Blog Post: https://medium.com/@samdavies_18945/starbucks-customer-clustering-algorithm-and-offer-success-predictive-model-78a86874ef29
+
 ## Acknowledgements
 
 Starbucks offer data for the project was provided by Udacity. 
